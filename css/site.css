@@ -4,6 +4,10 @@
 .jumbotron{
      background-image: url('../img/mozorg-gradient.png');
 }
+.jumbotron .container img {
+  width: 400px;
+  height: auto;
+}
 .jumbotron header h1 {
     font-family: "Open Sans","Helvetica Neue",Helvetica,Arial,sans-serif;
     font-size: 3.0em;
@@ -230,4 +234,11 @@ ul.submodule {
    white-space:nowrap;
   background-color:red;
 
+}
+
+@media screen and (max-width: 640px) {
+  .jumbotron .container img {
+    width: 200px;
+    height: auto;
+  }
 }

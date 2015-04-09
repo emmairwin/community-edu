@@ -36,7 +36,7 @@ layout: base
 	<div class="container">
 
 		<div id="calendar-data" class="clearfix">
-			<h1 class="text-center"><i class="fa fa-cog fa-2x fa-spin"></i></h1>
+			<!-- h1 class="text-center"><i class="fa fa-cog fa-2x fa-spin"></i></h1 -->
 		</div>
 		<script type="text/mustache" id="app-template">
 			{% raw %}
@@ -100,11 +100,10 @@ layout: base
 		<ul class="list-inline">
 			{% for user in site.data.course.signups %}
 				<li class="col-md-1">
-					<a href="https://twitter.com/{{ user.twitter }}"
-					   target="_blank"> <img
+					<img
 							class="img-circle profile-picture"
 							src="{{ user.image }}"
-							alt="{{ user.name }}"> </a>
+							alt="{{ user.name }}"> 
 				</li>
 			{% endfor %}
 		</ul>

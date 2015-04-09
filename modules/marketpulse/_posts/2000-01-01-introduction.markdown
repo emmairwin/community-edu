@@ -1,8 +1,6 @@
 ---
-title: Marketpulse
+title: Introduction
 ---
 
-#Market Research Training & Contribution Opportunities
-
-Welcome to the launchpad for Market Research Training.  Please select an training module from the left-hand menu to begin.
+{% include community_curriculum/market_pulse/FFOS/en/introduction.md %}
 

@@ -33,19 +33,19 @@ body {
  background-image: linear-gradient(to bottom, #F6F4EC, #D7D3C8);filter:progid:DXImageTransform.Microsoft.gradient(GradientType=0,startColorstr=#F6F4EC, endColorstr=#D7D3C8);
 }
 
-img[alt="LearningIcon"] { 
-  max-width:  220px; 
+img[alt="LearningIcon"] {
+  max-width:  220px;
   display: block;
 }
-img[alt="CodeReview"] { 
-  max-width:  260px; 
+img[alt="CodeReview"] {
+  max-width:  260px;
   display: block;
 }
-img[alt="Detective"] {block  max-width:  490px; 
+img[alt="Detective"] {block  max-width:  490px;
   display: block;
 }
-img[alt="WebApp"] { 
-  max-width:  160px; 
+img[alt="WebApp"] {
+  max-width:  160px;
   display: block;
 }
 .navigation {
@@ -53,7 +53,7 @@ img[alt="WebApp"] {
   padding: 5;
   margin: 0;
   z-index: 5;
- 
+
   /*
   box-shadow:  0px -2px 3px -1px rgba(0, 0, 0, 1);
   */
@@ -77,7 +77,7 @@ li.dropdown > ul:nth-child(n){
   text-align:left;
   z-index:39;
   position:relative;
- 
+
 }
 
 li.dropdown:nth-child(n) > ul:nth-child(n) > li:nth-child(n) > a:nth-child(n){
@@ -95,3 +95,10 @@ li.dropdown:nth-child(n) > ul:nth-child(n) > li:nth-child(n) > a:nth-child(n):ho
     line-height: 2;
 }
 
+@media (max-width:991px) {
+  .navbar-nav > li.active .dropdown-menu {
+      visibility: visible;
+      opacity: 1;
+      display: block;
+  }
+}

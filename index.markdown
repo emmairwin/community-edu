@@ -16,11 +16,11 @@ Mozilla Community Education aims to empower Mozillians in their contributions, a
 
 
 
-We believe education and training are a key to empowering community(staff and volunteers) in achieving their goals for personal development and project impact. While many opportunities will launch form the Mozilla Reps program, this initiative is project-wide collaborative initiative.  Everyone is invited.
+We believe education and training are a key to empowering community (staff and volunteers) in achieving their goals for personal development and project impact. While many opportunities will launch form the Mozilla Reps program, this initiative is project-wide collaborative initiative.  Everyone is invited.
 
 <hr>
 
-Join our Community Education Call!  <a target="_blank" href=https://wiki.mozilla.org/Community_Education_Working_Group"><i class="fa fa-heart fa-2x" ></i></a>
+Join our Community Education Call!  <a target="_blank" href=https://wiki.mozilla.org/Community_Education_Working_Group><i class="fa fa-heart fa-2x" ></i></a>
 
 <hr>
 

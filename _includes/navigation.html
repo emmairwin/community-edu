@@ -26,43 +26,44 @@
                {% assign dropdown = 1 %}
              {% endif %}
            {% endfor %}
-				       
+
 					{% assign first_post = site.categories[module]|reverse|first %}
 
-					<li class="{% if dropdown == 1 %}dropdown {%endif%} {% if page.categories[1] contains module %}active{% endif %} {% if forloop.first %}first{% endif %} {% if forloop.last %}last{% endif %}">
-						<a href="{{ site.baseurl }}{{ first_post.url }}"
+					<li class="{% if dropdown == 1 %}dropdown {%endif%} {% if page.categories[1] contains module %}active open{% endif %} {% if forloop.first %}first{% endif %} {% if forloop.last %}last{% endif %}">
+						<a {% if dropdown ==1 %}href="#" data-toggle="dropdown"{% else %}href="{{ site.baseurl }}{{ first_post.url }}"{% endif %}
 						   class="dropdown-item">
-							{{ module | replace:'_',' ' }}  
+							{{ module | replace:'_',' ' }}
 					 		{% if dropdown == 1 %}<b class="caret"></b>{% endif %}</a>
 
-					 <ul class="{% if dropdown == 1 %}dropdown-menu no-collapse {%endif%}"> 
+					 <ul class="{% if dropdown == 1 %}dropdown-menu no-collapse {%endif%}list-inline">
+						  {% if dropdown ==1 %}<li class=""><a href="{{ site.baseurl }}{{ first_post.url }}">Introduction</a></li> {% endif %}
 		       <!-- /submodules -->
 					{% for submodule in site.data.course.submodules %}
-					 
+
 					  {% if submodule contains module %}
 
     					  {% assign submodule_name = module | append: '_' %}
   						  {% assign submodule_first_post = site.categories[submodule]|reverse|first %}
   						  {% assign submodule_display_name =  submodule | replace: submodule_name,'' %}
-								
-						    <li class="" ><a href="{{ site.baseurl }}{{submodule_first_post.url}}" title="{{ submodule_display_name | replace:'_',' ' }} ">{% if page.categories[1] contains submodule%}<i class="fa fa-chevron-right"></i>&nbsp;{%endif%}{{ submodule_display_name | replace:'_',' ' }}</a></li>
+
+						    <li class="" ><a href="{{ site.baseurl }}{{submodule_first_post.url}}" title="{{ submodule_display_name | replace:'_',' ' }} ">{% comment %}{% if page.categories[1] contains submodule%}<i class="fa fa-chevron-right"></i>&nbsp;{%endif%}{% endcomment %}{{ submodule_display_name | replace:'_',' ' }}</a></li>
 
 
             {% endif %}
-           
+
 		      {% endfor %}
            </ul>
 
 					</li>
-					
+
 				{% endfor %}
 				<li>
 					<a href="https://discourse.mozilla-community.org/c/community-education" target="_blank">Discussion</a>
 				</li>
 			</ul>
-			
+
 		</div>
-		
+
 		<!-- /.navbar-collapse -->
 	</div>
 	<!-- /.container-fluid -->

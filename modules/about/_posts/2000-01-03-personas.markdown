@@ -7,14 +7,19 @@ title: Participation Personas
   Real life contributors are complex and always changing, but these personas will more easily let us enter the headspace of the individuals and their unique perspectives.  As we contemplate participation and learning pathways, we can refer to our personas by name.
 
 
-
-   <div class="containers">
-  
-    <ul class="list-inline">  
-     <li>test</li>
-    </ul>
-  </div>
-
+{% for user in site.data.course.personas %}
+        <li class="col-md-1-persona persona">
+         <a href src="{{ site.baseurl }}/{{user.url}}"><img
+              class="img-circle-persona"
+              src="{{ user.image }}"
+              alt="{{ user.name }}"> 
+         </a>
+          <div class="persona">
+            <b> {{user.name}} </b></br>
+            <i>{{user.description}} </i> 
+          </div>
+        </li>
+      {% endfor %}
 
 <div style="float:left">
   

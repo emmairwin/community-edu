@@ -8,9 +8,11 @@ title: Participation Personas
 
 
 
-  <div class="containers">
+   <div class="containers">
   
-   test
+    <ul class="list-inline">  
+     <li>test</li>
+    </ul>
   </div>
 
 

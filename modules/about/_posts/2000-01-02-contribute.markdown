@@ -8,7 +8,7 @@ title: Contribute!
 
 ## Reporting an Issue
 
-If you see a typo, broken link, a UI issue or anything else, it would be a fantastic contribution to report it :
+If you see a typo, broken link, a UI issue or anything else - a bug report would be incredibly appreciated :
 
 *  [Site Issues](https://github.com/emmairwin/mozilla-community-edu/issues)  (coding, design, layout, dead links,  menus etc.)
 *  [Content Issues](https://github.com/emmairwin/community_curriculum/issues): (spelling, typos, grammar, suggested edits, resources or other improvements to content etc)

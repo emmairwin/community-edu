@@ -1,7 +1,7 @@
 title: Community Education 
 description: Community Education
 modules: [about, reps, marketpulse, technical, calendar]
-submodules: [about_contribute, reps_mentor_training, technical_git_and_github, marketpulse_firefox_os]
+submodules: [reps_mentor_training, technical_git_and_github, marketpulse_firefox_os]
 submodule_display_name:
 module_content: topic
 signups:
@@ -11,3 +11,68 @@ signups:
  - name: Mozilla Mentor Badge
    image: http://tiptoes.ca/wp-content/uploads/2015/02/Digital-copy.png
    twitter: sunnydeveloper
+personas:
+  - name: Lurking Lucinda
+    url: lurkinglucinda
+    image: https://farm3.staticflickr.com/2723/4396319121_546c1755e2_b.jpg
+    description: Inspired and curious
+    participation: Spectator
+    belonging: Outsider
+    opportunity: Engaged and open to opportunity
+    risk:
+    ccname: Ken Nickerson
+    imagecc: https://www.flickr.com/photos/kcnickerson
+  - name: Stanley Student
+    image: http://tiptoes.ca/wp-content/uploads/2015/04/14994008361_33b4c6c99b_z.jpg
+    description: Learning and particiation thrill seeker
+    participation: Sporadic with periods of intensity
+    belonging: Visitor
+    opportunity: Enthusiasm can grow into a sense of ownership and advocacy. Tinkerer.
+    risk:
+    ccname: Ariel Leuenberger
+    imagecc: https://www.flickr.com/photos/arileu/
+  - name: Newbie Ned
+    image: http://tiptoes.ca/wp-content/uploads/2015/04/8621715435_3c95730501_z.jpg
+    description: Enthusiastic and invested
+    participation: Spectator
+    belonging: Outsider
+    opportunity: Engaged and open to opportunity
+    risk:
+    ccname: Audrey Xavier Brulu
+    imagecc: https://www.flickr.com/photos/khanelle/
+  - name: Sea-Legs Sangeta 
+    image: http://tiptoes.ca/wp-content/uploads/2015/04/2377617039_40920d00de_z1.jpg
+    description:  Engaging through small successes
+    participation: Spectator
+    belonging: Outsider
+    opportunity: Engaged and open to opportunity
+    risk:
+    ccname: David Denis
+    imagecc: https://www.flickr.com/photos/davidden
+  - name: Coasting Cora 
+    image: http://tiptoes.ca/wp-content/uploads/2015/04/133333786_3ede7eff04.jpg
+    description:  Emerging leader, project fixture
+    participation: Spectator
+    belonging: Outsider
+    opportunity: Engaged and open to opportunity
+    risk:
+    ccname: DSean Dreilinger
+    imagecc: https://www.flickr.com/photos/seandreilinger/133333786/
+  - name: Dynamite Daphne
+    image: http://tiptoes.ca/wp-content/uploads/2015/04/3367489083_c3f61b9276_m.jpg
+    description: Project champion
+    participation: Spectator
+    belonging: Outsider
+    opportunity: Engaged and open to opportunity
+    risk:
+    ccname: Eddy Van 3000
+    imagecc: https://www.flickr.com/photos/e3000/
+  - name: Mentor Mel
+    image: http://tiptoes.ca/wp-content/uploads/2015/04/16034053449_94bc46d5b7_z1.jpg
+    description: Project Anchor
+    participation: Spectator
+    belonging: Outsider
+    opportunity: Engaged and open to opportunity
+    risk:
+    ccname: Phil Warren
+    imagecc: http://tiptoes.ca/wp-content/uploads/2015/04/16034053449_94bc46d5b7_z1.jpg

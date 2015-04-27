@@ -97,6 +97,26 @@ li.dropdown:nth-child(n) > ul:nth-child(n) > li:nth-child(n) > a:nth-child(n):ho
     line-height: 2;
 }
 
+div.persona{
+  text-align:center;
+  margin-bottom:35px;
+ 
+}
+li.persona{
+  margin-left:25px;
+  height:400px;
+  vertical-align:middle;
+  
+}
+
+.img-circle-persona{
+  width: 300px;
+  height: 250px;
+  border-radius: 150px;
+  -webkit-border-radius: 150px;
+  -moz-border-radius: 150px;
+}
+
 @media (max-width:991px) {
   .navbar-nav > li.active .dropdown-menu {
       visibility: visible;
@@ -104,7 +124,9 @@ li.dropdown:nth-child(n) > ul:nth-child(n) > li:nth-child(n) > a:nth-child(n):ho
       display: block;
   }
 }
-
+.col-md-1-persona {
+  width: 30%; 
+}
 
 .navbar-default .navbar-nav .dropdown-menu {
     background-color: #515665;

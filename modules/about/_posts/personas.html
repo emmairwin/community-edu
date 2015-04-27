@@ -1,0 +1,30 @@
+
+<section class="">
+  <div class="containers">
+  
+    <ul class="list-inline">
+      {% for user in site.data.course.personas %}
+        <li class="col-md-1-persona persona">
+         <a href src="{{ site.baseurl }}/{{user.url}}"><img
+              class="img-circle-persona"
+              src="{{ user.image }}"
+              alt="{{ user.name }}"> 
+         </a>
+          <div class="persona">
+            <b> {{user.name}} </b></br>
+            <i>{{user.description}} </i> 
+          </div>
+        </li>
+      {% endfor %}
+    </ul>
+  </div>
+</section>
+
+<div style="float:left">
+  
+  Photos by {% for cc in site.data.course.personas %}
+   <a href="{{ cc.imagecc }}">{{ cc.ccname }} </a>, 
+  {% endfor %}
+  available under a Creative Commons Attribution license.
+
+</div>

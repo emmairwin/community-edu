@@ -6,7 +6,6 @@ title: Participation Personas
 
   Real life contributors are complex and always changing, but these personas will more easily let us enter the headspace of the individuals and their unique perspectives.  As we contemplate participation and learning pathways, we can refer to our personas by name.
 
-#####(Full profiles coming soon)
 
 <section class="">
   <div class="containers">

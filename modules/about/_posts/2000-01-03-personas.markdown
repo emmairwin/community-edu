@@ -10,21 +10,7 @@ title: Participation Personas
 
   <div class="containers">
   
-    <ul class="list-inline">
-      {% for user in site.data.course.personas %}
-        <li class="col-md-1-persona persona">
-         <a href src="{{ site.baseurl }}/{{user.url}}"><img
-              class="img-circle-persona"
-              src="{{ user.image }}"
-              alt="{{ user.name }}"> 
-         </a>
-          <div class="persona">
-            <b> {{user.name}} </b></br>
-            <i>{{user.description}} </i> 
-          </div>
-        </li>
-      {% endfor %}
-    </ul>
+   test
   </div>
 
 

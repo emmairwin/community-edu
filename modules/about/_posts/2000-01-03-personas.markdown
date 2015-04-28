@@ -11,4 +11,4 @@ title: Participation Personas
 {% capture includeGuts %}
 {% include personas.html %}
 {% endcapture %}
-
+{{ includeGuts | replace: '    ', ''}}

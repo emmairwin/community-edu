@@ -8,5 +8,7 @@ title: Participation Personas
 
 #### (Full profiles coming soon)
 
+{% capture includeGuts %}
 {% include personas.html %}
+{% endcapture %}
 

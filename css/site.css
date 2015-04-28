@@ -99,19 +99,19 @@ li.dropdown:nth-child(n) > ul:nth-child(n) > li:nth-child(n) > a:nth-child(n):ho
 
 div.persona{
   text-align:center;
-  margin-bottom:35px;
+  margin-bottom:25px;
  
 }
 li.persona{
-  margin-left:25px;
-  height:400px;
+  margin-left:15px;
+  height:300px;
   vertical-align:middle;
   
 }
 
 .img-circle-persona{
-  width: 300px;
-  height: 250px;
+  width: 150px;
+  height: 140px;
   border-radius: 150px;
   -webkit-border-radius: 150px;
   -moz-border-radius: 150px;

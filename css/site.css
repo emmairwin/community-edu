@@ -111,7 +111,7 @@ li.persona{
 span.persona_desc{
   font-size:14px;
 }
-span.persona_name{
+span.persona_name a{
   font-size:22px;
   font-weight:bold;
 }

@@ -106,9 +106,39 @@ li.persona{
   margin-left:15px;
   height:300px;
   vertical-align:middle;
-  
+  text-align:center;
 }
-
+span.persona_desc{
+  font-size:14px;
+}
+span.persona_name{
+  font-size:22px;
+  font-weight:bold;
+}
+.fixed-image{
+  display:block;
+  position:relative
+}
+.persona-characteristics{
+  background-color:#C13832;
+  text-align:center;
+  width:100%;
+  padding-top:30px;
+  padding-bottom:30px;
+}
+.col-persona{
+  color:#F3F4F8;
+}
+.persona-risk{
+  text-align:center;
+  width:100%;
+  padding-top:30px;
+  padding-bottom:30px;
+}
+.persona-header{
+  margin-top:0px;
+  color:#F3F4F8
+}
 .img-circle-persona{
   width: 150px;
   height: 140px;
@@ -116,7 +146,34 @@ li.persona{
   -webkit-border-radius: 150px;
   -moz-border-radius: 150px;
 }
-
+.persona-photo{
+  width:100%;
+  text-align:center;
+  background-color:#050304;
+}
+.persona-story{
+  padding-top:11%;
+  margin-left:40px;
+  color:#F3F4F8
+}
+.persona-view
+{
+ float:left;
+ width:40%;
+}
+.persona-view-header{
+  color:#F3F4F8;
+  margin-left:20px;
+  margin-top:70px;
+  font-size: 49px;
+}
+.persona-view-name{
+  color:#808787;
+  margin-left:40px;
+}
+.persona-view-belonging{
+  color:#808787;
+}
 @media (max-width:991px) {
   .navbar-nav > li.active .dropdown-menu {
       visibility: visible;

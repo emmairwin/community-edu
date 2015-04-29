@@ -4,6 +4,7 @@ modules: [about, reps, marketpulse, technical, calendar]
 submodules: [reps_mentor_training, technical_git_and_github, marketpulse_firefox_os]
 submodule_display_name:
 module_content: topic
+currentpersona: lurkinglucinda
 signups:
  - name: Mozilla Rep Badge
    image: http://tiptoes.ca/wp-content/uploads/2015/02/Preview-01.png
@@ -16,13 +17,10 @@ personas:
     url: lurkinglucinda
     image: https://farm3.staticflickr.com/2723/4396319121_546c1755e2_b.jpg
     description: Inspired and curious
-    participation: Spectator
-    belonging: Outsider
-    opportunity: Engaged and open to opportunity
-    risk:
     ccname: Ken Nickerson
     imagecc: https://www.flickr.com/photos/kcnickerson
   - name: Stanley Student
+    url: stanleystudent
     image: http://tiptoes.ca/wp-content/uploads/2015/04/14994008361_33b4c6c99b_z.jpg
     description: Learning and particiation thrill seeker
     participation: Sporadic with periods of intensity
@@ -32,6 +30,7 @@ personas:
     ccname: Ariel Leuenberger
     imagecc: https://www.flickr.com/photos/arileu/
   - name: Newbie Ned
+    url: newbiened
     image: http://tiptoes.ca/wp-content/uploads/2015/04/8621715435_3c95730501_z.jpg
     description: Enthusiastic and invested
     participation: Spectator

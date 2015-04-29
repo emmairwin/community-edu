@@ -1,6 +1,7 @@
 
 <section class="">
   <div class="containers">
+  
     <ul class="list-inline">
       {% for user in site.data.course.personas %}
         <li class="col-md-1-persona persona">
@@ -9,15 +10,7 @@
               src="{{ user.image }}"
               alt="{{ user.name }}"> 
           <div class="persona">
-             
-              {% if user.url == "lurkinglucinda" %}
-              <span class="persona_name"> 
-                <a href="{{ site.data.baseurl }}/personas/{{user.url}}.html"> {{user.name}}</a> 
-              </span> 
-              {%else%}
-                <span class="persona_name"> {{user.name}} </span>
-              {% endif %}
-            
+            <span class="persona_name"> <a href="{{ site.data.baseurl }}/personas/{{user.url}}.html"> {{user.name}} </a></span><br/>
             <span class="persona_desc">{{user.description}}</span>
           </div>
         </li>

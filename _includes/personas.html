@@ -9,15 +9,15 @@
               src="{{ user.image }}"
               alt="{{ user.name }}"> 
           <div class="persona">
-            <span class="persona_name">  
+             
               {% if user.url == "lurkinglucinda" %}
-              <a href="{{ site.data.baseurl }}/personas/{{user.url}}.html"> 
-                {{user.name}} 
-              </a>
+              <span class="persona_name"> 
+                <a href="{{ site.data.baseurl }}/personas/{{user.url}}.html"> {{user.name}}</a> 
+              </span> 
               {%else%}
-                {{user.name}} 
+                <span class="persona_name"> {{user.name}} </span>
               {% endif %}
-              </span>
+            
             <span class="persona_desc">{{user.description}}</span>
           </div>
         </li>

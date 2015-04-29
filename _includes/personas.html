@@ -10,8 +10,13 @@
               src="{{ user.image }}"
               alt="{{ user.name }}"> 
           <div class="persona">
-            <span class="persona_name"> <a href="{{ site.data.baseurl }}/personas/{{user.url}}.html"> {{user.name}} </a></span><br/>
-            <span class="persona_desc">{{user.description}}</span>
+             {% if user.url == "lurkinglucinda" %}
+              <span class="persona_name"> 
+                <a href="{{ site.data.baseurl }}/personas/{{user.url}}.html"> {{user.name}}</a> 
+              </span> 
+              {%else%}
+                <span class="persona_name"> {{user.name}} </span>
+              {% endif %}
           </div>
         </li>
       {% endfor %}

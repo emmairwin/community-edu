@@ -11,12 +11,13 @@
               alt="{{ user.name }}"> 
           <div class="persona">
              {% if user.url == "lurkinglucinda" %}
-              <span class="persona_name"> 
+              <h3 class="persona_name"> 
                 <a href="{{ site.data.baseurl }}/personas/{{user.url}}.html"> {{user.name}}</a> 
-              </span> 
+              </h3> 
               {%else%}
-                <span class="persona_name"> {{user.name}} </span>
+                <h3> {{user.name}} </h3>
               {% endif %}
+              {{user.description}}
           </div>
         </li>
       {% endfor %}

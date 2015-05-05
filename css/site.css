@@ -129,8 +129,12 @@ span.persona_name a{
 .col-persona{
   color:#F3F4F8;
 }
+ul.persona-list{
+  text-align:left;
+  list-style-type: circle;
+}
 .persona-risk{
-  text-align:center;
+  text-align:left;
   width:100%;
   padding-top:30px;
   padding-bottom:30px;
@@ -160,6 +164,12 @@ span.persona_name a{
 {
  float:left;
  width:40%;
+}
+.row-persona h1{
+  text-align:left;
+}
+.row-persona {
+    margin-right: 0px;
 }
 .persona-view-header{
   color:#F3F4F8;

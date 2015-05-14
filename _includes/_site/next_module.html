@@ -2,7 +2,10 @@
 {% assign prev=null %}
 {% assign temp=null %}
 
+<!-- Modules -->
+
 {% for m in site.data.course.modules %}
+  
 	{% if m == module and forloop.first != true %}
 		{% assign p = forloop.index0 | minus:1  %}
 		{% assign prev = site.data.course.modules[p] %}
@@ -14,4 +17,9 @@
 		{% assign next_post = site.categories[next]|reverse|first %}
 	{% endif %}
 {% endfor %}
+
+	      {%  assign submodule_name = module %}
+	 
+
+
 

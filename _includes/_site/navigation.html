@@ -1,9 +1,9 @@
 <!-- Navigation -->
-<nav class="navbar navbar-default" role="navigation">
+<nav class="navbar navbar-default " role="navigation">
 
 	<!-- Brand and toggle get grouped for better mobile display -->
 	<div class="navbar-header">
-		<a href="#" class="navbar-toggle" data-toggle="collapse" data-target="#p2pu-menu">
+		<a href="#" class="navbar-toggle" aria-expanded="true" data-toggle="collapse" data-target="#p2pu-menu">
 			<i class="fa fa-bars"></i>
 		</a>
 	</div>
@@ -11,32 +11,59 @@
 	<!-- Collect the nav links, forms, and other content for toggling -->
 	<div class="container">
 		<div class="collapse navbar-collapse" id="p2pu-menu">
-			<ul class="nav navbar-nav">
+			<ul class="navigation nav navbar-nav  no-collapse" >
+
 				<li>
 					<a href="{{ site.baseurl }}/"><i class="fa fa-home"></i></a>
 				</li>
+
+		    <!-- /modules -->
 				{% for module in site.data.course.modules %}
-				     <h1>  {{ module }} </h1>
+
+				{% assign dropdown = 0 %}
+          {% for submodule in site.data.course.submodules %}
+             {% if submodule contains module %}
+               {% assign dropdown = 1 %}
+             {% endif %}
+           {% endfor %}
+
 					{% assign first_post = site.categories[module]|reverse|first %}
-                                    
-		     
-					<li class="dropdown {% if page.categories[1] == module %}active{% endif %} {% if forloop.first %}first{% endif %} {% if forloop.last %}last{% endif %}">
-						<a href="{{ site.baseurl }}{{ first_post.url }}"
+
+					<li class="{% if dropdown == 1 %}dropdown {%endif%} {% if page.categories[1] contains module %}active open{% endif %} {% if forloop.first %}first{% endif %} {% if forloop.last %}last{% endif %}">
+						<a {% if dropdown ==1 %}href="#" data-toggle="dropdown"{% else %}href="{{ site.baseurl }}{{ first_post.url }}"{% endif %}
 						   class="dropdown-item">
 							{{ module | replace:'_',' ' }}
-						</a>
-						
+					 		{% if dropdown == 1 %}<b class="caret"></b>{% endif %}</a>
+
+					 <ul class="{% if dropdown == 1 %}dropdown-menu no-collapse {%endif%}list-inline">
+						  {% if dropdown ==1 %}<li class=""><a href="{{ site.baseurl }}{{ first_post.url }}">Introduction</a></li> {% endif %}
+		       <!-- /submodules -->
+					{% for submodule in site.data.course.submodules %}
+
+					  {% if submodule contains module %}
+
+    					  {% assign submodule_name = module | append: '_' %}
+  						  {% assign submodule_first_post = site.categories[submodule]|reverse|first %}
+  						  {% assign submodule_display_name =  submodule | replace: submodule_name,'' %}
+
+						    <li class="" ><a href="{{ site.baseurl }}{{submodule_first_post.url}}" title="{{ submodule_display_name | replace:'_',' ' }} ">{% comment %}{% if page.categories[1] contains submodule%}<i class="fa fa-chevron-right"></i>&nbsp;{%endif%}{% endcomment %}{{ submodule_display_name | replace:'_',' ' }}</a></li>
+
+
+            {% endif %}
+
+		      {% endfor %}
+           </ul>
+
 					</li>
+
 				{% endfor %}
 				<li>
-					<a href="https://discourse.mozilla-community.org/c/community-education" target="_blank">Discussiasdfasfdon</a>
+					<a href="https://discourse.mozilla-community.org/c/community-education" target="_blank">Discussion</a>
 				</li>
 			</ul>
-			<!-- ul class="p2pu-logo">
-				<li><a class="p2pu-tab" href="#"><img src="{{ site.baseurl }}/img/wordmark.png" alt="{{ site.title }}" /></a></li>
-			</ul -->
+
 		</div>
-		
+
 		<!-- /.navbar-collapse -->
 	</div>
 	<!-- /.container-fluid -->

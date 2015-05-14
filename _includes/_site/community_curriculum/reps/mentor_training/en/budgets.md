@@ -21,7 +21,7 @@ Before we get started, I want to share this commonly communicated concern :
   ![CodeReview](http://i.giphy.com/uJy14yIR4NoPK.gif "CodeReview")
    
 
-> Reps is a project made of people, of leaders,whose actions can have incredible impact on Mozilla mission.  A budget review is not about trust, it's not about reputation, it's about ensuring a quality of impact on Mozilla's missionm and spreading our spending among as many activities as possible.
+> Reps is a project made of people, of leaders,whose actions can have incredible impact on Mozilla mission.  A budget review is not about trust, it's not about reputation, it's about ensuring a quality of impact on Mozilla's mission and spreading our spending among as many activities as possible.
 
 Think of it in terms of a Firefox code reviews.  No developer by-passes the QA process for submitting code,  new code goes through *the same exact* steps every time - to protect the quality and impact of the project.  
 Budget Review = Code Review.  

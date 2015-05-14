@@ -1,0 +1,35 @@
+
+<section class="">
+  <div class="containers">
+  
+    <ul class="list-inline">
+      {% for user in site.data.course.personas %}
+        <li class="col-md-1-persona persona">
+          <img
+              class="img-circle-persona"
+              src="{{ user.image }}"
+              alt="{{ user.name }}"> 
+          <div class="persona">
+             {% if user.url == "lurkinglucinda" %}
+              <h4 class="persona_name"> 
+                <a href="{{ site.data.baseurl }}/personas/{{user.url}}.html"> {{user.name}}</a> 
+              </h4> 
+              {%else%}
+                <h4> {{user.name}} </h4>
+              {% endif %}
+              <span style="font-size:13px">{{user.description}}</span>
+          </div>
+        </li>
+      {% endfor %}
+    </ul>
+  </div>
+</section>
+
+<div style="float:left">
+  
+  Photos by {% for cc in site.data.course.personas %}
+   <a href="{{ cc.imagecc }}">{{ cc.ccname }} </a>, 
+  {% endfor %}
+  available under a Creative Commons Attribution license.
+
+</div>

@@ -4,7 +4,12 @@ title: Introduction
 
 ![Market Research](https://marketpulse.mozilla.community/static/img/marketpulse.svg)
 
-### Welcome!  
+{% capture includeGuts %}
+{% include community_curriculum/market_pulse/html_includes/qualities.html %}
+{% endcapture %}
+{{ includeGuts | replace: '    ', ''}}
+
+### Then we have a great learning opportunity for you!  
 
 You've found the educational module for Marketpulse contribution! For more on participation opportunities  [please check the Marketpulse Wiki](https://wiki.mozilla.org/Participation/Marketpulse)
 
@@ -16,13 +21,9 @@ In our efforts to be much more data-driven when we think about how we market and
 
 Within the Marketpulse education modules you will find helpful tutorials, educational content and real-time opportunities to learn and grow in this exciting field.  
 
-Head over to the [FFOS learning module](http://localhost:4000/modules/marketpulse_firefox_os/introduction/) to get started!
+Head over to the [FFOS learning module](/modules/marketpulse_firefox_os/introduction/) to get started!
 
-## Who are you?
 
-If you are wondering what 
-
-{% include community_curriculum/market_pulse/qualities.html %}
 
 ## Learn more about careers in Market Research
 

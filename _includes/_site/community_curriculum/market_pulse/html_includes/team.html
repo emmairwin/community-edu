@@ -1,0 +1,26 @@
+
+<section class="">
+  <div class="containers">
+  
+    <ul class="list-inline">
+      {% for person in site.data.marketpulse.team %}
+        <li class="col-md-1-persona persona">
+          <img
+              class="img-circle-persona"
+              src="{{ person.image }}"
+              alt="{{ person.name }}"> 
+          <div class="persona">
+             {% if peson.mozillians  %}
+              <h4 class="persona_name"> 
+                <a href="#"> {{person.name}}</a> 
+              </h4> 
+              {%else%}
+                <h4> {{person.name}} </h4>
+              {% endif %}
+              <span style="font-size:13px">{{person.role}}</span>
+          </div>
+        </li>
+      {% endfor %}
+    </ul>
+  </div>
+</section>

@@ -1,0 +1,26 @@
+
+<section class="">
+  <div class="containers">
+  
+    <ul class="list-inline">
+      {% for team_member in site.data.course.team_members %}
+        <li class="col-md-1-persona persona">
+          <img
+              class="img-circle-persona"
+              src="{{ team_member.image }}"
+              alt="{{ team_member.name }}"> 
+          <div class="persona">
+             {% if user.url == "lurkinglucinda" %}
+              <h4 class="persona_name"> 
+                <a href="{{ site.data.baseurl }}/personas/{{team_member.mozillians}}.html"> {{team_member.name}}</a> 
+              </h4> 
+              {%else%}
+                <h4> {{team_member.name}} </h4>
+              {% endif %}
+              <span style="font-size:13px">{{team_member.role}}</span>
+          </div>
+        </li>
+      {% endfor %}
+    </ul>
+  </div>
+</section>

@@ -16,7 +16,11 @@ Mozilla Community Education aims to empower Mozillians in their contributions, a
 
 
 
-We believe education and training are a key to empowering community (staff and volunteers) in achieving their goals for personal development and project impact. While many opportunities will launch form the Mozilla Reps program, this initiative is project-wide collaborative initiative.  Everyone is invited.
+> "Participation is when people contribute their energies, time and ideas to supporting Mozilla’s mission, programs and products. This can be volunteers contributing their ideas in a 
+> brainstorm, or engaged users helping make products better, or supporters helping to increase 
+> the reach of Mozilla's mission, programs and way of working.""
+
+> Participation comes to life when both Mozilla and Mozillians (participants) get value. 
 
 <hr>
 

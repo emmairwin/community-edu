@@ -1,0 +1,6 @@
+---
+title: Step 1 - Firefox OS Data
+---
+
+{% include community_curriculum/market_pulse/en/FFOS/step_1.md %}
+

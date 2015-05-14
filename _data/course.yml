@@ -1,10 +1,29 @@
 title: Community Education 
 description: Community Education
 modules: [about, reps, marketpulse, technical, calendar]
-submodules: [reps_mentor_training, technical_git_and_github, marketpulse_firefox_os]
+submodules: [reps_mentor_training, technical_git_and_github, marketpulse_activities, marketpulse_resources]
 submodule_display_name:
 module_content: topic
 currentpersona: lurkinglucinda
+team_members:
+ - name: Stefania Ioana Chiorean
+   image: https://mozillians.org/media/uploads/sorl-cache/ab/96/ab96e7398cf8cda59138dd4ae697416b.jpg
+   role: Website QA
+   mozillians: https://mozillians.org/en-US/u/pierros/
+   twitter:
+   irc: Ioana
+ - name: Santiago Ferreira
+   image: https://mozillians.org/media/uploads/sorl-cache/0b/8a/0b8a9bfe4d80c75e388160787fdbc1ce.jpg
+   role: Cirriculum QA 
+   mozillians: https://mozillians.org/en-US/u/sanux/
+   twitter:
+   irc:  santiago
+ - name: Emma Irwin
+   image: https://mozillians.org/media/uploads/sorl-cache/5c/1c/5c1c71e7e73358ba138def2a03f9e918.jpg
+   role: Participation Team - Education
+   mozillians: https://mozillians.org/en-US/u/emmairwin/
+   twitter: sunnydeveloper
+   irc: emmairwin
 signups:
  - name: Mozilla Rep Badge
    image: http://tiptoes.ca/wp-content/uploads/2015/02/Preview-01.png

@@ -1,0 +1,29 @@
+---
+title:  Step 3 - Interviewing Users
+---
+
+#Marketpulse | Step 3
+
+<br>
+
+<a class="btn btn-lg btn-warning ladder-step" href="/modules/marketpulse_activities/step_3/">
+  <i class="fa fa-microphone fa-5x pull-left"></i>Interviewing<br>Users</a>
+
+
+## The "Ins and Outs" of Interviewing
+
+Starting May 18th join our 4 week online course: "The Ins and Outs of Interviewing" led by Market Research experts at Mozilla.
+
+Each week, we’ll introduce new topics and facilitate conversations and activities across a range of easy online channels.  This activity will run for 4 weeks beginning, and is self-serve although supported by a weekly hangout  and participatory activities.
+
+Learning Objective What will they KNOW when finished the course? What do we want them to know for FFOS Marketpulse contribution?
+
+## Schedule
+
+Week 1  Secondary Research
+
+Week 2  Interview Planning
+
+Week 3  Interviewing Techniques
+
+Week 4  Interview Activity 

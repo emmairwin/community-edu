@@ -37,6 +37,10 @@ img[alt="LearningIcon"] {
   max-width:  220px;
   display: block;
 }
+img[alt="speak"] {
+  max-width:  80px;
+  display: block;
+}
 img[alt="CodeReview"] {
   max-width:  260px;
   display: block;
@@ -197,4 +201,7 @@ ul.persona-list{
 
 .navbar-default .navbar-nav .dropdown-menu {
     background-color: #515665;
+}
+.ladder-step{
+  width:100%;
 }

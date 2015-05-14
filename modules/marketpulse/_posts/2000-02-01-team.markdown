@@ -1,0 +1,6 @@
+---
+title: Welcome to the team!
+---
+
+{% include community_curriculum/market_pulse/html_includes/team.html %}
+

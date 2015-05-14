@@ -1,0 +1,13 @@
+---
+title: The Team!
+---
+
+# The Team
+
+  This site, curriculum, and community management made possible by this gifted team:
+
+
+{% capture includeGuts %}
+{% include team.html %}
+{% endcapture %}
+{{ includeGuts | replace: '    ', ''}}

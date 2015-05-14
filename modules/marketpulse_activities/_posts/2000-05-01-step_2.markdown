@@ -1,0 +1,6 @@
+---
+title:  Step 2 - Competitor Data
+---
+
+
+{% include community_curriculum/market_pulse/en/FFOS/step_2.md %}

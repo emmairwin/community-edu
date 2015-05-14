@@ -27,10 +27,10 @@ team_members:
  - name: Soumya Deb
    image: https://mozillians.org/media/uploads/sorl-cache/47/41/47410076fc8a490a6ef962602efcb2b8.jpg
    mozillians: https://mozillians.org/en-US/u/Debloper/
-   role: Development Jedi
+   role: Development
  - name: Akshay S Dinesh
    image: https://mozillians.org/media/uploads/sorl-cache/77/49/774929f037dd9064fb57e95c365f4366.jpg
-   role: Coding Guru
+   role: Development
    mozillians: https://mozillians.org/en-US/u/asdofindia/
  - name: Akshay Tiwari
    image: https://mozillians.org/media/uploads/sorl-cache/33/2a/332a6923fe575638ba134fb1bde882bc.jpg

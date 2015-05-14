@@ -62,7 +62,7 @@ personas:
     risk:
     ccname: Ariel Leuenberger
     imagecc: https://www.flickr.com/photos/arileu/
-  - name: Newbie Ned
+  - name: Ned the New
     url: newbiened
     image: http://tiptoes.ca/wp-content/uploads/2015/04/8621715435_3c95730501_z.jpg
     description: Enthusiastic and invested
@@ -98,7 +98,7 @@ personas:
     opportunity: Engaged and open to opportunity
     risk:
     ccname: Eddy Van 3000
-    imagecc: https://www.flickr.com/photos/e3000/
+    imagecc: https://www.flickr.com/photos/e3000
   - name: Mentor Mel
     image: http://tiptoes.ca/wp-content/uploads/2015/04/16034053449_94bc46d5b7_z1.jpg
     description: Project Anchor

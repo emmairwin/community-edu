@@ -18,6 +18,12 @@ Within the Marketpulse education modules you will find helpful tutorials, educat
 
 Head over to the [FFOS learning module](http://localhost:4000/modules/marketpulse_firefox_os/introduction/) to get started!
 
+## Who are you?
+
+If you are wondering what 
+
+{% include community_curriculum/market_pulse/qualities.html %}
+
 ## Learn more about careers in Market Research
 
 <a href="https://www.youtube.com/watch?v=GRVMUroE2Ok

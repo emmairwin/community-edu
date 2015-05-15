@@ -11,7 +11,7 @@ title:  Step 3 - Interviewing Users
 
 
 ##What?
-Starting May 26th together with the Market Experts at Mozilla, we'll be offering a 4 week online, participatory course to help you grown your Market Research Skills through Interview Training.
+Starting May 26th together with the Market Research Experts at Mozilla, we'll be offering a 4 week online, participatory course to help you grown your Market Research Skills through Interview Training.
 
 ## Who Should Participate?
 
@@ -22,11 +22,14 @@ Starting May 26th together with the Market Experts at Mozilla, we'll be offering
 {{ includeGuts | replace: '    ', ''}}
 
 ### And...
-* An existing or potential Marketpulse Contributor 
-* Someone interested in developing a stronger skill-set in Market Research
-* Someone interested in getting better at interviewing people
+* An existing or potential Marketpulse Contributor ?
+* Someone interested in developing a stronger skill-set in Market Research through contribution to Mozilla ?
 
-<i class="fa fa-lightbulb-o fa-2x pull-left"></i> It's not mandatory, but definately a good idea to take training in [Step 1](/modules/marketpulse_activities/step_1/) and [Step 2](modules/marketpulse_activities/step_2/) prior to starting this course.
+<i class="fa fa-lightbulb-o fa-2x pull-left"></i> It's not mandatory, but definitely a good idea to take training in [Step 1](/modules/marketpulse_activities/step_1/) and [Step 2](modules/marketpulse_activities/step_2/) prior to starting this course.
+
+#What will we research and learn about?
+Our topic of research will be "Exploring Technology Beyond the Browser & Phone: Large Screens".
+
 
 ## Is this for me?
 
@@ -42,20 +45,30 @@ Each week, we’ll introduce new topics and facilitate conversations and activit
 
 We have a maximum number of 60 participants, so please only sign-up if you can commit the time, and if for some reason your circumstances change please let us know so we can give your spot to another.
 
-* Sign-up using this Google Form
-* Join the Discourse Category for this Session
-* Familiarize yourself with #Marketpulse hastag, as this will be our social media, and a quick way to ask for help.
+* [Register!](https://docs.google.com/forms/d/1DT8OK_ZwuS5c-5I6QoPguL3eL-zbP-rKn6d_UgXuMxg/viewform)
+*[ ]Join the Discourse Category for this Session](https://discourse.mozilla-community.org/t/marketpulse-interviewing-users-introductions/2119)
+* Familiarize yourself with #mozResearch hashtag, as this will be our social media, and a quick way to ask for help.
 * This is flexible! Participate as your schedule allows. You can design your own participation in live sessions and online discussions.
 * Check-in weekly each Tuesday. Contribute to ongoing conversations via Google Plus and Twitter chats.
 * Attend an online meet-up with other course participants (dates to be announced shortly)
 
 
-## Schedule
+## Schedule 
 
-Week 1  Secondary Research
+Starting May 26th.. (exact times TBA soon) 
+Each week will begin with an email of instructions, and activities.
 
-Week 2  Interview Planning
+####Week 1  Secondary Research 
+This week covers secondary research, the **first part** of any research project!
+Participants will learn best practices for researching, collecting and documenting existing information on our focus topic: “Large Screen Experience".
 
-Week 3  Interviewing Techniques
+####Week 2  Interview Planning
+Participants will learn to create an interview guide, which includes creating materials and tools needed to facilitate conversations, and review afterwards. 
 
-Week 4  Interview Activity 
+####Week 3  Interviewing Techniques
+This week we'll learn about and practice our interviewing skills while challenging ourselves to improve on our questions, timing and other aspects of a 'good interviewer'.
+
+####Week 4  Interview Activity 
+This week will will provide participants with 'learn by doing' experience through of executing a final interview supported by learning resources, team mentoring and a final evaluation.
+
+**All participants who successfully complete this course will receive a signed 'Marketpulse' certificate of accomplishment**

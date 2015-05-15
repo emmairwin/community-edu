@@ -46,7 +46,7 @@ Each week, we’ll introduce new topics and facilitate conversations and activit
 We have a maximum number of 60 participants, so please only sign-up if you can commit the time, and if for some reason your circumstances change please let us know so we can give your spot to another.
 
 * [Register!](https://docs.google.com/forms/d/1DT8OK_ZwuS5c-5I6QoPguL3eL-zbP-rKn6d_UgXuMxg/viewform)
-*[ ]Join the Discourse Category for this Session](https://discourse.mozilla-community.org/t/marketpulse-interviewing-users-introductions/2119)
+* [Join the Discourse Category for this Session](https://discourse.mozilla-community.org/t/marketpulse-interviewing-users-introductions/2119)
 * Familiarize yourself with #mozResearch hashtag, as this will be our social media, and a quick way to ask for help.
 * This is flexible! Participate as your schedule allows. You can design your own participation in live sessions and online discussions.
 * Check-in weekly each Tuesday. Contribute to ongoing conversations via Google Plus and Twitter chats.

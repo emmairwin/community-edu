@@ -22,6 +22,9 @@ body {
     background-color: #4D4E53;
     border-color: #D7D3C8;
 }
+.course-icon{
+  color:#C13832
+}
 
 .btn-danger:hover, .btn-danger:focus, .btn-danger:active, .btn-danger.active, .open > .btn-danger.dropdown-toggle {
  color: #4D4E53;

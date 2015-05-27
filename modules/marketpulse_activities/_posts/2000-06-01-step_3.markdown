@@ -7,14 +7,15 @@ title:  Step 3 - Interviewing Users
 <br>
 
 <a class="btn btn-lg btn-warning ladder-step" href="/modules/marketpulse_activities/step_3/">
-  <i class="fa fa-microphone fa-5x pull-left"></i>Interviewing<br>Users <br/> Starts May 28th</a>
+  <i class="fa fa-microphone fa-5x pull-left"></i>Interviewing<br>Users <br/> (Week 1 Live Now!)</a>
 
 
 ##What?
 Starting May 26th together with the Market Research Experts at Mozilla, we'll be offering a 4 week online, participatory course to help you grown your Market Research Skills through Interview Training.
 
-## Who Should Participate?
+**This course has started! Check the schedule below and jump in at any time!**
 
+## Who Should Participate?
 
 {% capture includeGuts %}
 {% include community_curriculum/market_pulse/html_includes/qualities.html %}
@@ -43,22 +44,19 @@ Each week, we’ll introduce new topics and facilitate conversations and activit
 
 ##Sound doable? Read on!
 
-We have a maximum number of 60 participants, so please only sign-up if you can commit the time, and if for some reason your circumstances change please let us know so we can give your spot to another.
+This course has started, but you can still join in!  Check the links below to connect with the course and participants.  Here's how to get started:
 
-* [Register!](https://docs.google.com/forms/d/1DT8OK_ZwuS5c-5I6QoPguL3eL-zbP-rKn6d_UgXuMxg/viewform)
-* [Join the Discourse Category for this Session](https://discourse.mozilla-community.org/t/marketpulse-interviewing-users-introductions/2119)
-* Familiarize yourself with #mozResearch hashtag, as this will be our social media, and a quick way to ask for help.
 * This is flexible! Participate as your schedule allows. You can design your own participation in live sessions and online discussions.
-* Check-in weekly each Tuesday. Contribute to ongoing conversations via Google Plus and Twitter chats.
+* Check this page, every Tuesday (PDT) for updates to the week's activities. Contribute to ongoing conversations via Google Plus and Twitter chats held every Thursday.
 * Attend an online meet-up with other course participants (dates to be announced shortly)
 
 
 ## Schedule 
 
-Starting May 28th.. (exact times TBA soon) 
+
 Each week will begin with an email of instructions, and activities.
 
-####Week 1  Secondary Research 
+####[Week 1  Secondary Research](/pages/secondary_research.html)
 This week covers secondary research, the **first part** of any research project!
 Participants will learn best practices for researching, collecting and documenting existing information on our focus topic: “Large Screen Experience".
 

@@ -26,6 +26,7 @@ body {
   color:#C13832
 }
 
+
 .btn-danger:hover, .btn-danger:focus, .btn-danger:active, .btn-danger.active, .open > .btn-danger.dropdown-toggle {
  color: #4D4E53;
  background-color: #F6F4EC; background-image: -webkit-gradient(linear, left top, left bottom, from(#a5b8da), to(#7089b3));
@@ -159,7 +160,7 @@ ul.persona-list{
 }
 .persona-photo{
   width:100%;
-  text-align:center;
+  text-align:right;
   background-color:#050304;
 }
 .persona-story{
@@ -208,3 +209,4 @@ ul.persona-list{
 .ladder-step{
   width:100%;
 }
+

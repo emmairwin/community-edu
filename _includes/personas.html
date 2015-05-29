@@ -10,7 +10,8 @@
               src="{{ user.image }}"
               alt="{{ user.name }}"> 
           <div class="persona">
-             {% if user.url == "lurkinglucinda" %}
+
+             {% if user.url == "lurkinglucinda" or user.url == "stanleystudent" %}
               <h4 class="persona_name"> 
                 <a href="{{ site.data.baseurl }}/personas/{{user.url}}.html"> {{user.name}}</a> 
               </h4> 

@@ -6,7 +6,7 @@ layout: base
    <div class="persona-view">
       <h1 class="persona-view-header">{{page.persona_name}}</h1>
 
-      <h2 class="persona-view-name">Potential Contributor</h2>
+      <h2 class="persona-view-name">{{page.label}}</h2>
       <div class="persona-story">
         {{page.persona_description}}
       <br/> <br/>
@@ -20,47 +20,9 @@ layout: base
           
     </div>
   
-    <div class="persona-characteristics">
-   
-      <h1 style="margin-top:0px;color:#F3F4F8">Participation Characteristics</h2>
-      <br/>
-      <div class="row row-persona">
-        <div class="col-xs-12 col-md-2 col-md-offset-1 col-persona" >
-             <i class="fa fa-eye fa-5x fa-persona"></i>
-            <p>Spectator</p>
-        </div>
-        <div class="col-xs-12 col-md-2 col-md-offset-1 col-persona" >
-             <i class="fa fa-heart-o fa-5x fa-persona"></i>
-            <p>Inspired</p>
-        </div>
-        <div class="col-xs-12 col-md-2 col-md-offset-1 col-persona" >
-             <i class="fa fa-search fa-5x fa-persona"></i>
-            <p>Curious</p>
-        </div>
-        <div class="col-xs-12 col-md-2 col-md-offset-1 col-persona" >
-             <i class="fa fa-exclamation-triangle fa-5x fa-persona"></i>
-            <p>Cautious</p>
-        </div>
-     </div>
-   </div>
-    <div class="persona-risk">
-     <hr>
-      <br/>
-      <div class="row row-persona">
          {% include persona_qualities/{{page.persona_qualities_layout}}.html %}
-     </div>
+     
    </div>
-
-
-      <!-- Participation style:  Spectator, inspired, curious  <br>
-       Sense of belonging:  Outsider <br>
-       Risk: Silent or hostile channels, no match for skills/interest, no mentors -->
-    </div>
-   
-        
-    
-          <!-- a href="/next" class="carousel-control right lg"><span class="icon-next"></span>
-          <a href="/prev" class="carousel-control left lg"><span class="icon-prev"></span></a -->
-   
-    </article>
-  </section>
+ </div>
+</article>
+</section>

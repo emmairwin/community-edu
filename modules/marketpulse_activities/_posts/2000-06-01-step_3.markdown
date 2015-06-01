@@ -13,7 +13,8 @@ title:  Step 3 - Interviewing Users
 ##What?
 Starting May 26th together with the Market Research Experts at Mozilla, we'll be offering a 4 week online, participatory course to help you grown your Market Research Skills through Interview Training.
 
-**This course has started! Check the schedule below and jump in at any time!**
+**This course has started! <br>
+<a href="#schedule">Check the schedule below and jump in at any time!</a>**
 
 ## Who Should Participate?
 
@@ -51,7 +52,7 @@ This course has started, but you can still join in!  Check the links below to co
 * Attend an online meet-up with other course participants (dates to be announced shortly)
 
 
-## Schedule 
+## <a href name="schedule">Schedule</a>
 
 
 Each week will begin with an email of instructions, and activities.
@@ -60,7 +61,7 @@ Each week will begin with an email of instructions, and activities.
 This week covers secondary research, the **first part** of any research project!
 Participants will learn best practices for researching, collecting and documenting existing information on our focus topic: “Large Screen Experience".
 
-####Week 2  Interview Planning
+####[Week 2  Interview Planning](/pages/interview_planning.html)
 Participants will learn to create an interview guide, which includes creating materials and tools needed to facilitate conversations, and review afterwards. 
 
 ####Week 3  Interviewing Techniques

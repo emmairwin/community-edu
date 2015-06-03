@@ -3,26 +3,20 @@ layout: base
 ---
 
 <section style="margin:0px;" >
-   <div class="persona-view">
+  <div class="persona-view">
+    <div class="persona-story">
       <h1 class="persona-view-header">{{page.persona_name}}</h1>
-
       <h2 class="persona-view-name">{{page.label}}</h2>
-      <div class="persona-story">
-        {{page.persona_description}}
+      {{page.persona_description}}
       <br/> <br/>
       <h4 class="persona-view-belonging">Sense of Belonging: {{page.persona_belonging}}</h4>
-      </div>
-     
     </div>
+    
     <div class="persona-photo">
-     
         <img class="img-circle-persona-bio" src="{{page.persona_image}}" />
-          
     </div>
-  
-         {% include persona_qualities/{{page.persona_qualities_layout}}.html %}
-     
+
    </div>
- </div>
-</article>
+
+     {% include persona_qualities/{{page.persona_qualities_layout}}.html %}
 </section>

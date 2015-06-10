@@ -64,7 +64,7 @@ Participants will learn best practices for researching, collecting and documenti
 ####[Week 2  Interview Planning](/pages/interview_planning.html)
 Participants will learn to create an interview guide, which includes creating materials and tools needed to facilitate conversations, and review afterwards. 
 
-####Week 3  Interviewing Techniques
+####[Week 3  Interviewing Techniques](/pages/interviewing_techniques.html)
 This week we'll learn about and practice our interviewing skills while challenging ourselves to improve on our questions, timing and other aspects of a 'good interviewer'.
 
 ####Week 4  Interview Activity 

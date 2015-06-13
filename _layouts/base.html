@@ -27,6 +27,8 @@
 	<link rel="stylesheet" href="{{ site.baseurl }}/css/p2pustrap-custom.css" />
 
 	<link rel="shortcut icon" href="{{ site.baseurl }}/img/favicon.ico">
+	<link href="https://mozorg.cdn.mozilla.net/media/css/tabzilla-min.css" rel="stylesheet" />
+
 	<script type="text/javascript" src="{{ site.baseurl }}/js/modernizr-2.6.2.min.js"></script>
 
 
@@ -36,7 +38,7 @@
 </head>
 <body {% if page.itemtype %}itemscope itemtype="{{ page.itemtype }}"{% endif %}
       class="{{ page.body-class }}">
-
+<a href="https://www.mozilla.org/" id="tabzilla">mozilla</a>
 {% include navigation.html %}
 
 {{ content }}
@@ -70,6 +72,8 @@
 <!--
 <script src="//netdna.bootstrapcdn.com/bootstrap/3.1.1/js/bootstrap.min.js"></script> -->
 {% endif %}
+<script src="https://mozorg.cdn.mozilla.net/tabzilla/tabzilla.js"></script>
+
 <!-- Start of StatCounter Code for Default Guide -->
 <script type="text/javascript">
 var sc_project=10263151; 

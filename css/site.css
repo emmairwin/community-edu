@@ -5,6 +5,9 @@
     font-family: "Open Sans","Helvetica Neue",Helvetica,Arial,sans-serif;
     font-size: 3.0em;
 }
+.navbar {
+    position: inherit !important;
+}
 .navbar-default {
     border-bottom-color: #D7D3C8;
 }
@@ -225,4 +228,3 @@ ul.persona-list{
 .ladder-step{
   width:100%;
 }
-

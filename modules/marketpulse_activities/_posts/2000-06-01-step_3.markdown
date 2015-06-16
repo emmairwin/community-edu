@@ -67,7 +67,7 @@ Participants will learn to create an interview guide, which includes creating ma
 ####[Week 3  Interviewing Techniques](/pages/interviewing_techniques.html)
 This week we'll learn about and practice our interviewing skills while challenging ourselves to improve on our questions, timing and other aspects of a 'good interviewer'.
 
-####Week 4  Interview Activity 
+####[Week 4  Your First Interview!](pages/first_interview.html)
 This week will will provide participants with 'learn by doing' experience through of executing a final interview supported by learning resources, team mentoring and a final evaluation.
 
 **All participants who successfully complete this course will receive a signed 'Marketpulse' certificate of accomplishment**

@@ -1,5 +1,5 @@
 ---
-title:  Step 3 - Interviewing Users
+title:  Step 3 - Interviewing Users for Mozilla
 ---
 
 #Marketpulse | Step 3
@@ -7,7 +7,7 @@ title:  Step 3 - Interviewing Users
 <br>
 
 <a class="btn btn-lg btn-warning ladder-step" href="/modules/marketpulse_activities/step_3/">
-  <i class="fa fa-microphone fa-5x pull-left"></i>Interviewing<br>Users <br/> (Week 1 Live Now!)</a>
+  <i class="fa fa-microphone fa-5x pull-left"></i>Interviewing<br>Users for Mozilla<br/> (Week 1 Live Now!)</a>
 
 
 ##What?
@@ -67,7 +67,7 @@ Participants will learn to create an interview guide, which includes creating ma
 ####[Week 3  Interviewing Techniques](/pages/interviewing_techniques.html)
 This week we'll learn about and practice our interviewing skills while challenging ourselves to improve on our questions, timing and other aspects of a 'good interviewer'.
 
-####[Week 4  Your First Interview!](pages/first_interview.html)
+####[Week 4  Your First Interview!](/pages/first_interview.html)
 This week will will provide participants with 'learn by doing' experience through of executing a final interview supported by learning resources, team mentoring and a final evaluation.
 
 **All participants who successfully complete this course will receive a signed 'Marketpulse' certificate of accomplishment**

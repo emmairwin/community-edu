@@ -7,55 +7,31 @@ title:  Step 3 - Interviewing Users for Mozilla
 <br>
 
 <a class="btn btn-lg btn-warning ladder-step" href="/modules/marketpulse_activities/step_3/">
-  <i class="fa fa-microphone fa-5x pull-left"></i>Interviewing<br>Users for Mozilla<br/> (Week 1 Live Now!)</a>
+  <i class="fa fa-microphone fa-5x pull-left"></i>Interviewing<br>Users for Mozilla<br/>Online, Self Study Course</a>
 
+  >Interviewing Users for Mozilla is a self-directed, online course aimed at improving your skills in the very valuable qualitative research technique of interviewing users. 
 
-##What?
-Starting May 26th together with the Market Research Experts at Mozilla, we'll be offering a 4 week online, participatory course to help you grown your Market Research Skills through Interview Training.
+   This course can help you improve the quality of research in your Marketpulse contributions, but can also lend to greater academic and personal success as you learn to priortize the voice of others in the decisions you make every day.
 
-**This course has started! <br>
-<a href="#schedule">Check the schedule below and jump in at any time!</a>**
+## Format
 
-## Who Should Participate?
+A self-directed course, which if taken at a pace of three hours per week, takes about four weeks to complete. And that's just 'on average', you can work and learn at the pace best suited to your life and schedule! Each week is accompanied by a recorded-hangout from the live version of the course.
 
-{% capture includeGuts %}
-{% include community_curriculum/market_pulse/html_includes/qualities.html %}
-{% endcapture %}
-{{ includeGuts | replace: '    ', ''}}
+## Materials
 
-### And...
-* An existing or potential Marketpulse Contributor ?
-* Someone interested in developing a stronger skill-set in Market Research through contribution to Mozilla ?
-
-<i class="fa fa-lightbulb-o fa-2x pull-left"></i> It's not mandatory, but definitely a good idea to take training in [Step 1](/modules/marketpulse_activities/step_1/) and [Step 2](modules/marketpulse_activities/step_2/) prior to starting this course.
-
-#What will we research and learn about?
-Our topic of research will be "Exploring Technology Beyond the Browser & Phone: Large Screens".
-
-
-## Is this for me?
-
-Each week, we’ll introduce new topics and facilitate conversations and activities across a range of easy online channels.  This activity will run for 4 weeks beginning, and is self-serve although supported by a in-person Google Hangouts and participatory activities.
-
-
-* Estimated time: 2hr-4hr/week or as much time as you have. This experience is completely self-serve, with weekly hangouts to discuss topics.
 * Equipment needed: Laptop, internet and a G+ account, Mozillians Account
 * Skills required: Just an interest in Market Research, the Open Web and applying what you know to help Mozilla collect data in your local area. Oh, and a spirit of adventure :)
-* Resource we provide: ["Interviewing Users"](http://rosenfeldmedia.com/books/interviewing-users/) and a [Wikimedia Notebook](http://store.wikimedia.org/products/wikipedia-notebooks).
+* Resource we provide: ["Interviewing Users"](http://rosenfeldmedia.com/books/interviewing-users/).
 
-##Sound doable? Read on!
+## On Completion
 
-This course has started, but you can still join in!  Check the links below to connect with the course and participants.  Here's how to get started:
+Once you have completed course activities, you can request a [Marketpulse printable Certificate] (https://docs.google.com/forms/d/1JU5lE9z3Qk1uz6CmZrzVfty_j7LVWXvXmByr02N0f0w/viewform ) and a Wikimedia Notebook.
 
-* This is flexible! Participate as your schedule allows. You can design your own participation in live sessions and online discussions.
-* Check this page, every Tuesday (PDT) for updates to the week's activities. Contribute to ongoing conversations via Google Plus and Twitter chats held every Thursday.
-* Attend an online meet-up with other course participants (dates to be announced shortly)
+## Schedule
 
+Ready to get started? [Sign-Up here and get started with Week 1!](https://docs.google.com/forms/d/1jC-_jj4-Gvv10aBPFHi4vKVZCHQ0Df5E7_oCECrMS3Y/viewform)
 
-## <a href name="schedule">Schedule</a>
-
-
-Each week will begin with an email of instructions, and activities.
+> Our topic of research will be "Exploring Technology Beyond the Browser & Phone: Large Screens".
 
 ####[Week 1  Secondary Research](/pages/secondary_research.html)
 This week covers secondary research, the **first part** of any research project!

@@ -9,9 +9,9 @@ title:  Step 3 - Interviewing Users for Mozilla
 <a class="btn btn-lg btn-warning ladder-step" href="/modules/marketpulse_activities/step_3/">
   <i class="fa fa-microphone fa-5x pull-left"></i>Interviewing<br>Users for Mozilla<br/>Online, Self Study Course</a>
 
-  >Interviewing Users for Mozilla is a self-directed, online course aimed at improving your skills in the very valuable qualitative research technique of interviewing users. 
+  >Interviewing Users for Mozilla is a self-directed, on-line course aimed at improving your skills in the very valuable qualitative research technique of interviewing users. 
 
-   This course can help you improve the quality of research in your Marketpulse contributions, but can also lend to greater academic and personal success as you learn to priortize the voice of others in the decisions you make every day.
+   This course can help you improve the quality of research in your Marketpulse contributions, but can also lend to greater academic and personal success as you learn to prioritize the voice of others in the decisions you make every day.
 
 ## Format
 
@@ -19,7 +19,7 @@ A self-directed course, which if taken at a pace of three hours per week, takes 
 
 ## Materials
 
-* Equipment needed: Laptop, internet and a G+ account, Mozillians Account
+* Equipment needed: Laptop, Internet and a G+ account, Mozillians Account
 * Skills required: Just an interest in Market Research, the Open Web and applying what you know to help Mozilla collect data in your local area. Oh, and a spirit of adventure :)
 * Resource we provide: ["Interviewing Users"](http://rosenfeldmedia.com/books/interviewing-users/).
 

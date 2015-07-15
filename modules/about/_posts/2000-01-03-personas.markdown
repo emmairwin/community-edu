@@ -6,19 +6,21 @@ title: Participation Personas
 
   Real life contributors are complex and always changing, but these personas will more easily let us enter the headspace of the individuals and their unique perspectives.  As we contemplate participation and learning pathways, we can refer to our personas by name.
 
-### Lenses
-  In addition to the Persona attributes and stories, we should apply the following 'lense' to each as a test for diversity, inclusion and overall humanness of Participation design.
+### Generously Apply Lenses
+  In addition to the Persona attributes and stories, we should apply each 'lense' below to our Pesonas as a test for diversity, inclusion and overall humanness of our Participation design.
 
 * Age
 * Gender Identity
 * Accessiblity 
 * Communication Skills
-* Geography/Regional placement
-* Active/Inactive
+* Geography/Regional Location
+* Active/Inactive Status
+* Project Association
 * Skill level
+* Primary Motivation {Personal or Mission}
 * Skillset
 
-
+# Persona Stories
 
 {% capture includeGuts %}
 {% include personas.html %}

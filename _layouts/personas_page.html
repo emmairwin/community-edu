@@ -2,8 +2,12 @@
 layout: base
 ---
 
+
 <section style="margin:0px;" >
+ 
+
   <div class="persona-view">
+  
     <div class="persona-story">
       <h1 class="persona-view-header">{{page.persona_name}}</h1>
       <h2 class="persona-view-name">{{page.label}}</h2>
@@ -15,7 +19,7 @@ layout: base
     <div class="persona-photo" style="text-align: center">
         <img class="img-circle-persona-bio" src="{{page.persona_image}}" />
     </div>
-
+ 
    </div>
 
      {% include persona_qualities/{{page.persona_qualities_layout}}.html %}

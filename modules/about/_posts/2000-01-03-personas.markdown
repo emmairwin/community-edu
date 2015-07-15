@@ -19,7 +19,7 @@ title: Participation Personas
 * Skill level
 * Primary Motivation {Personal or Mission}
 * Skillset
-* Agression/Toxic Rating (1-5)
+* Aggression/Toxic Rating (1-5)
 
 # Persona Stories
 

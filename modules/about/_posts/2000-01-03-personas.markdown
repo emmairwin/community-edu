@@ -13,6 +13,7 @@ title: Participation Personas
 * Gender Identity
 * Accessibility 
 * Communication Skills
+* Language
 * Geography/Regional Identity
 * Active/Inactive Status
 * Project Association

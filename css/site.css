@@ -111,6 +111,8 @@ li.dropdown:nth-child(n) > ul:nth-child(n) > li:nth-child(n) > a:nth-child(n):ho
 div.persona{
   text-align:center;
   margin-bottom:25px;
+  font-weight:bold;
+  line-height: 90%;
  
 }
 li.persona{

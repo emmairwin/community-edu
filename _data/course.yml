@@ -103,6 +103,7 @@ personas:
     ccname: Eddy Van 3000
     imagecc: https://www.flickr.com/photos/e3000
   - name: Mentor Mel
+    url: mentormel
     image: http://tiptoes.ca/wp-content/uploads/2015/04/16034053449_94bc46d5b7_z1.jpg
     description: Project Anchor
     participation: Spectator

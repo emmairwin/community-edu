@@ -122,6 +122,7 @@ li.persona{
   text-align:center;
 }
 span.persona_desc{
+  margin-top:12px;
   font-size:14px;
 }
 span.persona_name a{
@@ -210,6 +211,7 @@ ul.persona-list{
 .persona-view-name{
   color:#808787;
   margin-left:40px;
+  padding-top:13px;
 }
 .persona-view-belonging{
   color:#808787;

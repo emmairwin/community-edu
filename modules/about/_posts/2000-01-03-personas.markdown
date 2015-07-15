@@ -9,13 +9,15 @@ title: Participation Personas
 ### Lenses
   In addition to the Persona attributes and stories, we should apply the following 'lense' to each as a test for diversity, inclusion and overall humanness of Participation design.
 
+* Age
+* Gender Identity
+* Accessiblity 
+* Communication Skills
+* Geography/Regional placement
 * Active/Inactive
 * Skill level
 * Skillset
-* Age
-* Gender Identity
-* Communication Skills
-* Geography/Regional placement
+
 
 
 {% capture includeGuts %}

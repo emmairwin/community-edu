@@ -1,0 +1,5 @@
+---
+title: Workshop Outline
+---
+
+{% include community_curriculum/participation/design_thinking_for_participation/en/workshop.md %}

@@ -1,7 +1,7 @@
 title: Community Education 
 description: Community Education
 modules: [about, reps, participation, marketpulse, technical]
-submodules: [reps_mentor_training, technical_git_and_github, marketpulse_activities, marketpulse_resources, participation_design_thinking]
+submodules: [about_curriculum_contribution,reps_mentor_training, technical_git_and_github, marketpulse_activities, marketpulse_resources, participation_design_thinking]
 submodule_display_name:
 module_content: topic
 currentpersona: lurkinglucinda

@@ -1,5 +1,5 @@
 
-{% include schedule.html %}
+
 {% include schedule.md %}
 
 {% capture includeGuts %}

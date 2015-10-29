@@ -1,0 +1,23 @@
+
+<section class="">
+  <div class="containers">
+    <ul class="list-inline">
+      {% for facilitator in site.data.mozfest.facilitators %}
+        <li class="col-md-1-persona persona">
+          <img
+              class="img-circle-persona"
+              src="{{ facilitator.image }}"
+              alt="{{ facilitator.name }}">
+          <div class="persona">
+              <h4 class="persona_name">
+                <div>
+                  <a href="{{ facilitator.twitter }}"> {{facilitator.name}}</a>
+                </div>
+              </h4>
+              <span style="font-size:13px">{{facilitator.description}}</span>
+          </div>
+        </li>
+      {% endfor %}
+    </ul>
+  </div>
+</section>

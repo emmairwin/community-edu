@@ -1,0 +1,8 @@
+
+{% include schedule.html %}
+{% include schedule.md %}
+
+{% capture includeGuts %}
+{% include mozfest_session_facilitators.html %}
+{% endcapture %}
+{{ includeGuts | replace: '    ', ''}}

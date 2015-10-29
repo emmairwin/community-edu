@@ -2,15 +2,14 @@ facilitators:
  - name: Errietta Kostala
    image: https://pbs.twimg.com/profile_images/614204431295352832/WAUfMpf5_400x400.jpg
    session: Firefox OS App-building workshop
-   description: Participants will learn to build their own Firefox OS app or game, ready to publish in the market! The session will allow them to build an app of their choice while getting help from other participants.
+   twitter:  https://twitter.com/errietta
  - name: Emma Irwin
    image: https://pbs.twimg.com/profile_images/652183672951451648/fzROR0NP_400x400.jpg
-   session: Fx OS Team - Research
-   description: description
+   session: Scaling the Learning and Leading program at Mozilla
    twitter: http://twitter.com/sunnydeveloper
    irc:
  - name: George Roter
    image: https://pbs.twimg.com/profile_images/799489260/George---small-headshot-square_400x400.jpg
    session: Mozilla Campus
-   description: description
+   description: Mozilla Leadership
    twitter: http://twitter.com/geroter

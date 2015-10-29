@@ -10,20 +10,10 @@ team:
    role: Fx OS team - Marketing
    mozillians: https://mozillians.org/en-US/u/natalia/
    twitter:
-   irc: 
- - name: Lindsay Kenzig
-   image: https://mozillians.org/media/uploads/sorl-cache/f6/41/f641a5c4fae1a5ff13535d362c3a3a60.jpg
-   role: Senior User Researcher
-   mozillians: https://mozillians.org/en-US/u/lkenzig%40mozilla.com/
- - name: Akshay Tiwari
-   image: https://mozillians.org/media/uploads/sorl-cache/33/2a/332a6923fe575638ba134fb1bde882bc.jpg
-   role: Community Manager
-   mozillians: https://mozillians.org/en-US/u/AT/
-   twitter:
    irc:
  - name: Robert Reyes
    image: https://mozillians.org/media/uploads/sorl-cache/fb/4d/fb4d3d3b3a4e4b5cbc63638fd396f53b.jpg
-   role: Participation Lead 
+   role: Participation Lead
    mozillians: https://mozillians.org/en-US/u/bobreyes/
    twitter:
    irc:  pierros
@@ -45,5 +35,3 @@ team:
    mozillians: https://mozillians.org/en-US/u/pierros/
    twitter:
    irc:  pierros
-
-

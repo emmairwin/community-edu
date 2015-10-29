@@ -1,7 +1,7 @@
-title: Community Education 
+title: Community Education
 description: Community Education
 modules: [about, reps, participation, marketpulse, technical]
-submodules: [about_curriculum_contribution,reps_mentor_training, technical_git_and_github, marketpulse_activities, marketpulse_resources, participation_design_thinking]
+submodules: [about_curriculum_contribution,reps_mentor_training, technical_git_and_github, marketpulse_activities, marketpulse_resources, participation_design_thinking, participation_mozfest]
 submodule_display_name:
 module_content: topic
 currentpersona: lurkinglucinda
@@ -14,7 +14,7 @@ team_members:
    irc: Ioana
  - name: Santiago Ferreira
    image: https://mozillians.org/media/uploads/sorl-cache/0b/8a/0b8a9bfe4d80c75e388160787fdbc1ce.jpg
-   role: Cirriculum QA 
+   role: Cirriculum QA
    mozillians: https://mozillians.org/en-US/u/sanux/
    twitter:
    irc:  santiago
@@ -32,12 +32,6 @@ team_members:
    image: https://mozillians.org/media/uploads/sorl-cache/77/49/774929f037dd9064fb57e95c365f4366.jpg
    role: Development
    mozillians: https://mozillians.org/en-US/u/asdofindia/
- - name: Akshay Tiwari
-   image: https://mozillians.org/media/uploads/sorl-cache/33/2a/332a6923fe575638ba134fb1bde882bc.jpg
-   role: Marketpulse Community Manager
-   mozillians: https://mozillians.org/en-US/u/AT/
-   twitter:
-   irc:
 signups:
  - name: Mozilla Rep Badge
    image: http://tiptoes.ca/wp-content/uploads/2015/02/Preview-01.png
@@ -66,13 +60,13 @@ personas:
     url: nedthenew
     image: http://tiptoes.ca/wp-content/uploads/2015/06/4483595879_c457f56627_z-e1433374140647.jpg
     description: Enthusiastic and exploring
-    participation: Spectator 
+    participation: Spectator
     belonging: Outsider
     opportunity: Engaged and open to opportunity
     risk:
     ccname: James Theophane
     imagecc: https://www.flickr.com/photos/_theo_/4483595879/
-  - name: Sea-Legs Sangeeta 
+  - name: Sea-Legs Sangeeta
     url: sealegssangeeta
     image: http://tiptoes.ca/wp-content/uploads/2015/04/2377617039_40920d00de_z1.jpg
     description:  Engaging through small successes
@@ -82,7 +76,7 @@ personas:
     risk:
     ccname: David Denis
     imagecc: https://www.flickr.com/photos/davidden/2377617039/in/photolist-7YL7QX-uAzfm-Jhy2S-HhKnF-B2Lfb-5sNPDq-ad771p-66cPQW-2256Ad-hEaPRT-5vgqdV-6PWNSB-dGsSLu-4FPn6Z-4ZxB4C-crz365-r1i2s1-akRxtN-DSCsd-6KxS9C-5gRX4w-9ZxrBG-p8tBJS-kc9HEo-4cZZ7u-4FPeFF-o6J3LR-4A8PTU-5Bizc2-93xjUo-7DsxyQ-gJ9cT6-dnREFC-9pwL9Z-qk7tmG-95Dbee-6W6uvs-adkcBE-f3EAYT-4C6UHe-foeWWe-5JGuyY-8K6QWz-71LZLM-5qFRjB-8HQJuH-cSDAtf-N92FC-an2fkP-88u5Nm
-  - name: Coasting Cora 
+  - name: Coasting Cora
     url: coastingcora
     image: http://tiptoes.ca/wp-content/uploads/2015/07/3980595563_9f3ec29702_z.jpg
     description:  Emerging leader, project fixture

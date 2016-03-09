@@ -1,4 +1,6 @@
 ## Mozilla Community Education Platform
+
+[![Join the chat at https://gitter.im/emmairwin/mozilla-community-edu](https://badges.gitter.im/emmairwin/mozilla-community-edu.svg)](https://gitter.im/emmairwin/mozilla-community-edu?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 * Fork of [P2PU Course](http://howto.p2pu.org/) in a Box 
 * Which leverages the [Jekyll Blogging Software](http://jekyllrb.com/)
 

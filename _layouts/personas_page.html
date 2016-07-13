@@ -4,10 +4,10 @@ layout: base
 
 
 <section style="margin:0px;" >
- 
+
 
   <div class="persona-view">
-  
+
     <div class="persona-story">
       <h1 class="persona-view-header">{{page.persona_name}}</h1>
       <h2 class="persona-view-name">{{page.label}}</h2>
@@ -15,13 +15,12 @@ layout: base
       <br/> <br/>
       <h4 class="persona-view-belonging">Sense of Belonging: {{page.persona_belonging}}</h4>
     </div>
-    
+
     <div class="persona-photo" style="text-align: center">
         <img class="img-circle-persona-bio" src="{{page.persona_image}}" />
     </div>
- 
+
    </div>
-     {% include persona_qualities/{{page.persona_qualities_layout}}.html %}
+    
       "{{page.CCtitle}}" by <a href="{{ page.CClink }}">{{ page.CCname }} </a>, is licensed under CC BY 2.0
 </section>
-

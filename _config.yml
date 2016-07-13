@@ -1,6 +1,6 @@
 # basic configuration
 baseurl:
-markdown: redcarpet
+markdown: kramdown
 permalink: /:categories/:title/
 
 # Some files we need to exclude, so Github can build the site
